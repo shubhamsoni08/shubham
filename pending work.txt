@@ -1,0 +1,65 @@
+Java access modifier oracle
+
+for each loop
+java compiler website run
+jdk 17 installation
+vowel and constant question	
+calculator program
+loan program
+method list with there calss
+keywords list and there use.
+
+------------------------------------------------
+Q) how to access static member in inheritence?
+    static member of super class will be access in sub class but they will always point to the class area of super class 
+    and not in the sub class method area.
+Q) Can we have the method in java which has same name as of class name?
+Q) what is string argu in main method
+Q) order of execution of instance block , static block and constructor ( and why )
+Q) runtime and compile time error
+- why we cant use parameterized constructor in encapsulation along  with private variable amd setter getter method.
+instance: it is use to do non initialization activity.
+
+
+-------------------------------------------------------------
+# Inheritence:
+- in inheritence we cam not use private, static & final variable in super class.
+- in inhetence we can not use static method & final in super class.
+- apply karun dakkhav.
+
+
+
+#
+- class & object matrix questions (12 / 13)
+- class & object: add two complex number
+- when we have to use scanner class for more than one method. so at that time why that method is static.
+	can we use scanner class for multiple method with instance method.
+- when we have to use void, int & static return type.
+- can we take scanner class in the constructor.
+
+-------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+------------------------
+- type casting 
+- up casting 
+- down casting
+- recursion.
+- 
+
+
+
+sammyz_officail4
+
+
+- overloaded operator
+- difference between & and && 
+- oops concept.
+- 
+
+
